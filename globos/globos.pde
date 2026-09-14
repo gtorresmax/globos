@@ -30,6 +30,7 @@ void setup()
 {
   size(640,480);
   globos = new ArrayList<Globo>();  
+  println("ARRANCA PROGRAMA");
 }
 
 void draw()
