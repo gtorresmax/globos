@@ -14,7 +14,7 @@ class Globo
     y+=vy;
     x+=vx;
   }
-
+//Segundo cambio
   void dibujate()
   {
       imageMode(CENTER);
