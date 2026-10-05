@@ -34,7 +34,7 @@ void setup()
   globos = new ArrayList<Globo>();  
   cara =loadImage("Barrio.jpg");
 }
-
+//Cambio Online
 void draw()
 {
   background(20,200,200);
