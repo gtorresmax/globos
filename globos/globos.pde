@@ -27,7 +27,7 @@ class Globo
 PImage cara;
 ArrayList<Globo> globos;
 
-
+//Cuarto Cambio
 void setup()
 {
   size(640,480);
