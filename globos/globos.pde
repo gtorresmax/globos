@@ -43,7 +43,7 @@ void draw()
   {
     globos.get(i).update();
     globos.get(i).dibujate();
-  }
+  }//Ultimo Cambio seguro
 }
 //Sexto Cambio
 void mousePressed()
