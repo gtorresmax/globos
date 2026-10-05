@@ -45,7 +45,7 @@ void draw()
     globos.get(i).dibujate();
   }
 }
-
+//Sexto Cambio
 void mousePressed()
 {
   globos.add(new Globo(mouseX,mouseY));
